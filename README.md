@@ -15,7 +15,9 @@ To build a transparent, trustless, and community-driven esports ecosystem where 
 
 ## Contract Details
 **Module Name**: `MyModule::EsportsTournament`  
-**Contract Address**: `0xYOUR_CONTRACT_ADDRESS` *(Replace with deployed address)*  
+**Contract Address**: `0x02de5c30a0f64e72b0b25b37077ec4d421cf3fb1458746388491cf307e490b4d'* 
+<img width="1875" height="805" alt="image" src="https://github.com/user-attachments/assets/b3d68245-a2b8-4d41-b19e-15f57dd91529" />
+
 
 ### Functions
 1. **`create_tournament(host: &signer)`**  
