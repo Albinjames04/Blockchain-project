@@ -1,0 +1,15 @@
+[package]
+name = "Decentralized-Esports-Tournments"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0x718dd4c8a1249ab8c7b7380ba2afcc61486e2d4df35a9335538f632a51a65c0d'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
